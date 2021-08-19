@@ -1,0 +1,6 @@
+ada statment dalam python yaitu
+
+- if Jika
+- elif Jalan Baru untuk jika
+- else jia salah dari if dan elif
+- list.append(nilai)
