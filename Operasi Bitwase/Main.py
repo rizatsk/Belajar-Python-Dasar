@@ -1,4 +1,4 @@
-#Operator Bitwase yaitu artinya bitwase itu masing masing bit
+#Operator Bitwase yaitu artinya bitwase itu masing masing bit/byte
 
 a = 9
 b = 2
